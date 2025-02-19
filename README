@@ -1,0 +1,21 @@
+# Java CLI Ticket Booking System
+
+## Features Implemented
+- **Book Tickets**: Allows users to book tickets for available shows.
+- **Show All Shows**: Displays a list of all available shows.
+- **Logout**: Logs out the current user and returns to the main menu.
+- **Admin Features**:
+  - Add new shows.
+  - Remove existing shows.
+  - View booking details.
+
+## Installation and Setup
+### Prerequisites
+- Install **Java JDK** (version 8 or higher)
+- Install **Maven** (optional for dependency management)
+
+### Steps to Set Up
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
+   cd <project-folder>
